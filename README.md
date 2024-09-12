@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 ## String
@@ -54,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
