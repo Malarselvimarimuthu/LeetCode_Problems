@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -95,4 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
