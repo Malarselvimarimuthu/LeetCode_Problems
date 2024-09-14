@@ -2,7 +2,7 @@ class Solution {
     public int maxSubArray(int[] nums) 
     {
         int sum = 0;
-        int max = 0;
+        int max = nums[0];
         for(int x:nums)
         {
             if(sum<0)
