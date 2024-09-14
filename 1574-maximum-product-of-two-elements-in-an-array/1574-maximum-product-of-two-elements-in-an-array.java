@@ -15,7 +15,6 @@ class Solution {
                 smax = nums[i];
             }
         }
-        System.out.println(smax+" "+fmax);
         return (fmax-1)*(smax-1);
     }
 }
