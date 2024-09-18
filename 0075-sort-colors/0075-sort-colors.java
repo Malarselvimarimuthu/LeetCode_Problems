@@ -4,7 +4,7 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int n:nums)
         {
-            map.put(n,map.getOrDefault(n,1)+1);
+            map.put(n,map.getOrDefault(n,0)+1);
         }
         int k = 0;
         int n = map.size();
@@ -13,7 +13,7 @@ class Solution {
             if(map.containsKey(i))
             {
             int a = map.get(i);
-            for(int j=1;j<a;j++)
+            for(int j=1;j<=a;j++)
             {
                 nums[k]  = i;
                 k++;
