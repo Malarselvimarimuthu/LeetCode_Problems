@@ -1,24 +1,32 @@
 class Solution {
     public void sortColors(int[] nums) 
     {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int n:nums)
+        int low = 0;
+        int mid = 0;
+        int high = nums.length - 1;
+        while(mid<=high)
         {
-            map.put(n,map.getOrDefault(n,0)+1);
-        }
-        int k = 0;
-        int n = map.size();
-        for(int i=0;i<=n;i++)
-        {
-            if(map.containsKey(i))
+            if(nums[mid] == 0)
             {
-            int a = map.get(i);
-            for(int j=1;j<=a;j++)
-            {
-                nums[k]  = i;
-                k++;
+                swap(mid,low,nums);
+                mid++;
+                low++;
             }
+            else if(nums[mid] == 1)
+            {
+                mid++;
+            }
+            else if(nums[mid] == 2)
+            {
+                swap(mid,high,nums);
+                high--;
             }
         }
     }
+    public static void swap(int a,int b,int[] nums)
+    {
+        int temp = nums[a];
+        nums[a] = nums[b];
+        nums[b] = temp;
+    } 
 }
