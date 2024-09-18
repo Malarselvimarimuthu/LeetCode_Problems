@@ -13,7 +13,7 @@ class Solution {
             if(map.containsKey(i))
             {
             int a = map.get(i);
-            for(int j=0;j<a-1;j++)
+            for(int j=1;j<a;j++)
             {
                 nums[k]  = i;
                 k++;
