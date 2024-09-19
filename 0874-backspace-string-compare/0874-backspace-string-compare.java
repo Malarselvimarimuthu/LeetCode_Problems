@@ -1,10 +1,6 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        s = compare(s);
-        t = compare(t);
-        // System.out.println(s);
-        // System.out.println(t);
-        return s.equals(t);
+        return compare(s).equals(compare(t));
     }
     public String compare(String s)
     {
