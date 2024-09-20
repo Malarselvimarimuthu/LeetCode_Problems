@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
+| [1205-defanging-an-ip-address](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1205-defanging-an-ip-address) |
 ## Backtracking
 |  |
 | ------- |
