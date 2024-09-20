@@ -8,3 +8,6 @@ class Solution {
 // bababa //abab -> contains
 //aba //baab -> not contains
 // abcabc //bcabcabcab -> contains
+// abaab -> baababaa -> not contains
+// abaa -> baaaba -> not contains
+// abab -> bababa -> not contains
