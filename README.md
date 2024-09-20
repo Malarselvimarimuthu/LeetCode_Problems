@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0344-reverse-string) |
@@ -136,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
