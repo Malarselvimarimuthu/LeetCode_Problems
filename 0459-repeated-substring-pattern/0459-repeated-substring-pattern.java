@@ -5,3 +5,6 @@ class Solution {
         return sub.contains(s);
     }
 }
+// bababa //abab -> contains
+//aba //baab -> not contains
+// abcabc //bcabcabcab -> contains
