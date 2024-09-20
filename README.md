@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Greedy
 |  |
