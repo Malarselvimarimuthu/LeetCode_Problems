@@ -11,7 +11,7 @@ class Solution {
         }  
         while(val != 0)
         {
-            long rem = (int)(val%16);
+            long rem = (val%16);
             
             if(rem>9)
             {
