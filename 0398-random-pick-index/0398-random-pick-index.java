@@ -1,19 +1,29 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Random;
+
 class Solution {
 
-    Map<Integer, ArrayList<Integer>> map = new HashMap<>();
+    private Map<Integer, List<Integer>> indexMap;
+    private Random random;
 
+    // Constructor to initialize index map and random object
     public Solution(int[] nums) {
-        for (int i=0;i<nums.length;i++) {
-            ArrayList<Integer> list = map.getOrDefault(nums[i], new ArrayList<>());
-            map.put(nums[i], list);
-            list.add(i);
+        indexMap = new HashMap<>();
+        random = new Random();
+
+        // Build a map of indices for each number
+        for (int i = 0; i < nums.length; i++) {
+            indexMap.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
         }
     }
-    
+
+    // Method to randomly pick an index of the target
     public int pick(int target) {
-        ArrayList<Integer> list = map.get(target);
-        int i = (int)(Math.random()*list.size());
-        return list.get(i);
+        List<Integer> indices = indexMap.get(target);
+        return indices.get(random.nextInt(indices.size()));
     }
 }
 
