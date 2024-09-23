@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2050-count-good-numbers) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Bit Manipulation
 |  |
@@ -147,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
