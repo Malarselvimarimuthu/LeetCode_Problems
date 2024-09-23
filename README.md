@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0398-random-pick-index](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
