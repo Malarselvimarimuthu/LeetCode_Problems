@@ -1,7 +1,6 @@
 class Solution {
     public int nthUglyNumber(int n) 
     {
-        int ugly = 1;
         int arr[] = new int[n];
         int pos1 = 0;
         int pos2 = 0;
