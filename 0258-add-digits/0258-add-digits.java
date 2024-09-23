@@ -1,28 +1,24 @@
 class Solution {
     public int addDigits(int num) 
     {
-        return digit(num);
-    }
-    public int digit(int n)
-    {
-        int s = 0;
-        int ts = 0;
-        int cnt = 0;
-        while(n>0)
+        while(num/10!=0)
         {
-            int r = n%10;
-            cnt++;
-            
-            s +=r;
-            n/=10;
+           int sum = 0;
+           while(num>0)
+           {
+                int rev = num%10;
+                sum +=rev;
+                num = num/10;
+           }
+           if(sum/10==0)
+           {
+            return sum;
+           }
+           else
+           {
+            num = sum;
+           }
         }
-        // System.out.println(cnt);
-        if(cnt >1)
-        {
-            ts += digit(s);
-            return ts;
-            // System.out.println(ts);
-        }
-        return s;
+        return num;
     }
 }
