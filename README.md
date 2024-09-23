@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2050-count-good-numbers) |
@@ -174,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
