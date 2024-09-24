@@ -5,11 +5,9 @@ class Solution {
         int max = nums[0];
         for(int x:nums)
         {
-            if(sum<0)
-                sum = 0;
+            if(sum<0) sum = 0;
             sum+=x;
             max = Math.max(sum,max);
-
         }
         return max;
     }
