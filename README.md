@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
@@ -212,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
