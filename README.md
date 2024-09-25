@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
@@ -161,11 +163,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
