@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
