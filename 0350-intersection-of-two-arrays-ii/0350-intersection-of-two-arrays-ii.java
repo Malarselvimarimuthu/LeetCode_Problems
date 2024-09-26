@@ -28,3 +28,7 @@ class Solution {
         return res;
     }
 }
+// i=0 j=0 r =1
+// i=1 j=0 r=2
+// i=2 j=1 r=3
+// i=3 j=2 r=4
