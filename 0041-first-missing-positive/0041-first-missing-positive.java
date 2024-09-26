@@ -1,14 +1,30 @@
 class Solution {
-    public int firstMissingPositive(int[] nums) {
-        Arrays.sort(nums);
-        int min = 1;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]>0 && nums[i]==min)
-            {
-                min++;
+    public int firstMissingPositive(int[] a) {
+        int i = 0;
+        int n = a.length;
+        while (i < n) {
+            int correctIndex = a[i] - 1;
+            if (a[i] <= n && a[i] > 0 && a[i] != a[correctIndex]) {
+                // swap
+                swap(a, i, correctIndex);
+            } else {
+                i++;
             }
         }
-        return min;
+
+        for (int j = 0; j < n; j++) {
+            if (a[j] != j + 1) {
+                return j + 1;
+            }
+        }
+        return n + 1; 
+        // if all elements from 1 to n are correctly positioned, 
+        // the first missing positive is n + 1
+    }
+
+    static void swap(int[] a, int i, int j) {
+        int temp = a[i];
+        a[i] = a[j];
+        a[j] = temp;
     }
 }
