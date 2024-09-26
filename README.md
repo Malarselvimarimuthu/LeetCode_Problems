@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
