@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0055-jump-game) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
