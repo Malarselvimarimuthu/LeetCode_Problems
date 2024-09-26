@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1205-defanging-an-ip-address) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
