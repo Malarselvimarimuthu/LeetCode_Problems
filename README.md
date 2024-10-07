@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
