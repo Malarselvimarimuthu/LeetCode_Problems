@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0409-longest-palindrome) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
