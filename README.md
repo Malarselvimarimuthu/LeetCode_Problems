@@ -290,13 +290,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
