@@ -9,24 +9,13 @@
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head) 
-    {
-        ListNode save = head;
-        int cnt = 0;
-        while(save!=null)
-        {
-            save = save.next;
-            cnt++;
+    public ListNode middleNode(ListNode head) {
+        ListNode Fast=head;
+        ListNode Slow=head;
+        while(Fast!=null && Fast.next!=null){
+            Slow=Slow.next;
+            Fast=Fast.next.next;
         }
-        int mid = cnt/2;
-        if(cnt%2==0)
-        {
-            mid = (cnt+1)/2;
-        }
-        for(int i=0;i<mid;i++)
-        {
-            head = head.next;
-        }
-        return head;
+        return Slow;
     }
 }
