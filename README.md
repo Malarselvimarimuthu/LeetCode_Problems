@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -328,9 +330,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
