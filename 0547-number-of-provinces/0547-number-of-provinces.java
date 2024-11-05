@@ -6,7 +6,7 @@ class Solution {
         {
             if(vis[a]!=1)
             {
-            dfs(a,adj,vis);
+                dfs(a,adj,vis);
             }
         }
     }
@@ -37,7 +37,7 @@ class Solution {
         int c = 0 ;
         for(int i=0;i<m;i++)
         {
-            if(vis[i]!=1)
+            if(vis[i]==0) // check for not visited nodes 
             {
                 c++;
                 dfs(i,adj,vis);
