@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0506-relative-ranks) |
+| [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -335,10 +338,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
