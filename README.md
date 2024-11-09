@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3394-minimum-array-end](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/3394-minimum-array-end) |
 ## Trie
 |  |
 | ------- |
