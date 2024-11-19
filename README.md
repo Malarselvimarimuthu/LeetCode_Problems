@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 ## Matrix
 |  |
