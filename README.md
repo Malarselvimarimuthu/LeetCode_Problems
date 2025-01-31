@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
