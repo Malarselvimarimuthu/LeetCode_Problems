@@ -12,16 +12,15 @@
 public class Solution {
     public boolean hasCycle(ListNode head) 
     {
-        HashMap<ListNode , Boolean> map = new HashMap<>();
-        while(head !=null)
+        HashSet <ListNode> set = new HashSet<>();
+        while(head!=null)
         {
-            if(map.get(head)!=null)
+            if(set.contains(head))
             {
                 return true;
             }
-            map.put(head,true);
+            set.add(head);
             head = head.next;
-
         }
         return false;
     }
