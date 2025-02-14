@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
