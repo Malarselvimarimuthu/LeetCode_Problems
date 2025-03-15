@@ -1,12 +1,19 @@
 class Solution {
-    public int climbStairs(int n) {
-        int i=0,j=1;
-        for(int len=0;len<n;len++)
-        {
-            int t=i+j;
-            i = j;
-            j = t;
+    private HashMap<Integer,Integer> map = new HashMap<>();
+    public int climbStairs(int n) 
+    {
+        if(n==1){
+            return 1;
         }
-        return j;
+    
+        if(n==2){
+            return 2;
+        }
+        if(map.containsKey(n)){
+            return map.get(n);
+        }
+        int res = climbStairs(n-1) + climbStairs(n-2); 
+        map.put(n,res);
+        return res;
     }
 }
