@@ -4,7 +4,7 @@ class Solution {
         int ind1 = -1;
         int ind2 = -1;
 
-        // Step 1: Find the breakpoint
+        
         for (int i = len - 2; i >= 0; i--) {
             if (nums[i] < nums[i + 1]) {
                 ind1 = i;
@@ -13,9 +13,9 @@ class Solution {
         }
 
         if (ind1 == -1) {
-            reverse(nums, 0, len - 1);  // ✅ Fix applied here
+            reverse(nums, 0, len - 1);  
         } else {
-            // Step 2: Find the number just larger than nums[ind1]
+            
             for (int i = len - 1; i >= 0; i--) {
                 if (nums[i] > nums[ind1]) {
                     ind2 = i;
@@ -23,10 +23,9 @@ class Solution {
                 }
             }
 
-            // Step 3: Swap
+          
             swap(nums, ind1, ind2);
 
-            // Step 4: Reverse the suffix
             reverse(nums, ind1 + 1, len - 1);
         }
     }
