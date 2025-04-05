@@ -1,46 +1,50 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int len = nums.length;
-        int ind1 = -1;
-        int ind2 = -1;
+        // Optimal logic 
+        // STEP 1:FIND THE BREAK POINT FROM RIGHT TO LEFT 
+        // EXMP: [2,1,5,4,3,0,0] BREAK POINT 1;
+        // STEP2: SWAP 1 WITH NEXT HIGH ELEMENT IN RIGHT THAT IS 3 (1-3)
+        // ARRAY LOOKS LIKE [2,3,5,4,1,0,0]
+        // STEP 3: REVERSE THE RIGHT SIDE OF BREAK POINT IN ARRAY
+        // [2,3,0,0,1,4,5] -> NEXT PERMUTATION
 
-        
-        for (int i = len - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                ind1 = i;
+        // STEP 1
+        int n = nums.length;
+        int bp1 = -1;
+        int bp2 = 0;
+        for(int i=n-1;i>0;i--){
+            if(nums[i]>nums[i-1]){
+                bp1 = i-1;
                 break;
             }
         }
+        if(bp1!=-1){
 
-        if (ind1 == -1) {
-            reverse(nums, 0, len - 1);  
-        } else {
-            
-            for (int i = len - 1; i >= 0; i--) {
-                if (nums[i] > nums[ind1]) {
-                    ind2 = i;
-                    break;
-                }
+        for(int i=n-1;i>0;i--){
+            if(nums[i]>nums[bp1]){
+                bp2 = i;
+                break;
             }
-
-          
-            swap(nums, ind1, ind2);
-
-            reverse(nums, ind1 + 1, len - 1);
+        }
+        swap(bp1,bp2,nums);
+        reverse(bp1+1,n-1,nums);
+        }
+        else{
+            reverse(0,n-1,nums);
         }
     }
-
-    void swap(int[] nums, int i, int j) {
+    public static void swap(int i,int j,int nums[])
+    {
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
     }
-
-    void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            swap(nums, start, end);
+    public static void reverse(int start,int end,int nums[])
+    {
+        while(start<=end){
+            swap(start,end,nums);
             start++;
-            end--;
+            end --;
         }
     }
 }
