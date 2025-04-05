@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Reservoir Sampling
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
 ## Counting
 |  |
