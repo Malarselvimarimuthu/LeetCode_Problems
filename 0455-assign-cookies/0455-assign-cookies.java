@@ -1,19 +1,17 @@
 class Solution {
+    // Greedy Algorithm
     public int findContentChildren(int[] g, int[] s) 
     {
         Arrays.sort(g);
         Arrays.sort(s);
-        int n = s.length;
-        int c = 0;
-        int i=0;
-        for(int j=0;i<g.length && j<n;j++)
-        {
-                if(s[j]>=g[i])
-                {
-                    c++;
-                    i++;
-                }
+
+        int count =0;
+        int greedIndex = 0;
+        for(int i=0;i<s.length && greedIndex<g.length;i++){
+            if(s[i]>=g[greedIndex]){
+                greedIndex ++;
+            }
         }
-        return i;
-    }
+        return greedIndex;
+    } 
 }
