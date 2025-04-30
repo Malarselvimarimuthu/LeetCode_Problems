@@ -5,7 +5,7 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int count =0;
+  
         int greedIndex = 0;
         for(int i=0;i<s.length && greedIndex<g.length;i++){
             if(s[i]>=g[greedIndex]){
