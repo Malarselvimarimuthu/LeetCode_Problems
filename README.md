@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0741-cherry-pickup) |
+| [0746-prefix-and-suffix-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0746-prefix-and-suffix-search) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
 | [0726-number-of-atoms](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0726-number-of-atoms) |
+| [0746-prefix-and-suffix-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0746-prefix-and-suffix-search) |
 | [0763-special-binary-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0812-rotate-string) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0726-number-of-atoms) |
+| [0746-prefix-and-suffix-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0746-prefix-and-suffix-search) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0746-prefix-and-suffix-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0746-prefix-and-suffix-search) |
 ## String Matching
 |  |
 | ------- |
@@ -426,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0732-my-calendar-iii) |
+| [0746-prefix-and-suffix-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0746-prefix-and-suffix-search) |
 | [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 ## Segment Tree
 |  |
