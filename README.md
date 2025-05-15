@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
@@ -522,4 +525,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0458-poor-pigs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
