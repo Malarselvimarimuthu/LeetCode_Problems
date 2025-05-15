@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0466-count-the-repetitions](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0466-count-the-repetitions) |
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
+| [0763-special-binary-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0763-special-binary-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0763-special-binary-string) |
 | [2050-count-good-numbers](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
