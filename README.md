@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0458-poor-pigs](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0935-orderly-queue](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2050-count-good-numbers) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0732-my-calendar-iii) |
