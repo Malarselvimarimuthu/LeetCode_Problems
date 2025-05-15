@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0383-ransom-note) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0282-expression-add-operators) |
 | [0398-random-pick-index](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
