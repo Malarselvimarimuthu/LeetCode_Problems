@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0732-my-calendar-iii) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0732-my-calendar-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0732-my-calendar-iii) |
 | [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 ## Segment Tree
 |  |
@@ -421,12 +424,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0732-my-calendar-iii) |
 | [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 ## Tree
 |  |
