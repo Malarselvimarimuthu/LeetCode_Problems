@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
+| [0935-orderly-queue](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1205-defanging-an-ip-address](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1205-defanging-an-ip-address) |
 ## Backtracking
 |  |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0458-poor-pigs](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0935-orderly-queue](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0935-orderly-queue](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
