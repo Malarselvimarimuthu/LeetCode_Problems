@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0629-k-inverse-pairs-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0629-k-inverse-pairs-array) |
 | [0664-strange-printer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0664-strange-printer) |
 | [0741-cherry-pickup](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
