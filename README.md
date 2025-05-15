@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
+| [0726-number-of-atoms](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [0763-special-binary-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0812-rotate-string) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0726-number-of-atoms](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0726-number-of-atoms](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0935-orderly-queue](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0935-orderly-queue) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0726-number-of-atoms](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0726-number-of-atoms) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
