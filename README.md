@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
+| [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Reservoir Sampling
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
+| [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 ## Segment Tree
 |  |
 | ------- |
@@ -424,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
 ## Tree
 |  |
 | ------- |
