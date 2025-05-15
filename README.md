@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0466-count-the-repetitions) |
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0664-strange-printer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0696-count-binary-substrings) |
 | [0763-special-binary-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0664-strange-printer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0664-strange-printer) |
 | [0741-cherry-pickup](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
