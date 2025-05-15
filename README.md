@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0741-cherry-pickup](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0741-cherry-pickup) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
+| [0741-cherry-pickup](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0741-cherry-pickup) |
 | [1036-rotting-oranges](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Math
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0741-cherry-pickup](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
