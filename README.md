@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1036-rotting-oranges) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0890-lemonade-change](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -317,11 +320,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 ## Simulation
 |  |
 | ------- |
