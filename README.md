@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0754-cracking-the-safe) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0754-cracking-the-safe) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 ## Union Find
@@ -531,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0460-lfu-cache) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
