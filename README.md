@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0506-relative-ranks) |
+| [0630-course-schedule-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0630-course-schedule-iii) |
 | [0729-my-calendar-i](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0792-binary-search) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0630-course-schedule-iii) |
 | [0768-partition-labels](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0506-relative-ranks) |
+| [0630-course-schedule-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0630-course-schedule-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0506-relative-ranks) |
+| [0630-course-schedule-iii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
