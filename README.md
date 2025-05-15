@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0233-number-of-digit-one](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2050-count-good-numbers) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0233-number-of-digit-one](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
