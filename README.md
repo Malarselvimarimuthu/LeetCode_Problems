@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
