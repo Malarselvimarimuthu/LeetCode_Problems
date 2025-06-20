@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0282-expression-add-operators) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
@@ -368,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
