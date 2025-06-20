@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0282-expression-add-operators) |
 ## Matrix
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0464-can-i-win) |
