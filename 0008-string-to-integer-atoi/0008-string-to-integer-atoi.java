@@ -1,23 +1,26 @@
 class Solution {
     public int myAtoi(String s) {
-        int i = 0, n = s.length();
-        while (i < n && s.charAt(i) == ' ') i++;
+        int x = 0;
+        int i=0;
+        int len = s.length();
+        while(i<len && s.charAt(i)==' ') i++;
         boolean sign = true;
-        if (i < n && (s.charAt(i) == '-' || s.charAt(i) == '+')) {
-            sign = (s.charAt(i++) == '+');
-        } 
-        int num = 0;
-
-        while (i < n && Character.isDigit(s.charAt(i))) {
-            int old = num;
-            num *= 10; num += s.charAt(i) - '0';
-            int now = num;
-            if (now / 10 != old) return (sign)? Integer.MAX_VALUE : Integer.MIN_VALUE; 
-            i++;
-
+        if(i<len && (s.charAt(i) == '-' || s.charAt(i) == '+'))
+        {
+           sign = (s.charAt(i) == '+'); 
+           i++;
         }
-        return (sign)? num: -num;
-    
-    
+        long num = 0;
+        while(i<len && Character.isDigit(s.charAt(i)))
+        {
+            num *= 10;
+            num  += s.charAt(i) - '0';
+            i++;
+          
+            if(!sign && (-num) <Integer.MIN_VALUE) return Integer.MIN_VALUE;
+            if(sign && num > Integer.MAX_VALUE ) return Integer.MAX_VALUE;
+        }
+
+        return (int)((sign)? num : -num);
     }
 }
