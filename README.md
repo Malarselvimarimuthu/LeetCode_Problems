@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0935-orderly-queue](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1205-defanging-an-ip-address](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1205-defanging-an-ip-address) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0931-maximum-frequency-stack) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
