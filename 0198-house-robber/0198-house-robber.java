@@ -1,29 +1,23 @@
 class Solution {
-    public int rob(int[] nums) 
-    {
+    public int rob(int[] nums) {
+        
+        // Tabulization
         int n = nums.length;
-        int dp[] = new int[n];
-        Arrays.fill(dp,-1);
-        return fun(n - 1,nums,dp);
-    }
-    public int fun(int ind,int[] nums,int[] dp)
-    {
-        if(ind == 0)
-        {
-            return nums[ind];
-        }
-        if(ind < 0)
-        {
-            return 0;
-        }
-        if(dp[ind] != -1)
-        {
-            return dp[ind];
-        }
-        int pick = nums[ind] + fun(ind-2 ,nums,dp);
-        int notPick = fun(ind-1,nums,dp);
-        dp[ind] = Math.max(pick,notPick);
 
-        return Math.max(pick,notPick);
+        int dp[] = new int[n];
+        dp[0] = nums[0];
+        for(int i=1;i<n;i++)
+        {
+           
+            int pick = nums[i] ;
+            if(i>1)
+            {
+                pick += dp[i-2];
+            }
+            int notPick = dp[i-1];
+
+            dp[i] = Math.max(pick,notPick);
+        }
+        return dp[n-1];
     }
 }
