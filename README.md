@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
