@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0874-backspace-string-compare) |
 | [0935-orderly-queue](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0935-orderly-queue) |
 | [1205-defanging-an-ip-address](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Backtracking
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0664-strange-printer) |
 | [0741-cherry-pickup](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Malarselvimarimuthu/LeetCode_Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Game Theory
